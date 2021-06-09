@@ -1,1 +1,1 @@
-creation d'un petit jeux en go (golang) pierre feuille ciseau
+creation d'un petit jeux en go (golang) pierre feuille ciseaux
